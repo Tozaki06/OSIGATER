@@ -7,12 +7,12 @@ In order to setup this OSINT Tool, just git clone this repository into your dire
 
 Make sure the shodan_module.py is there as well as it is used to perform the shodan feature function.
 
-Once done cloning, there 1 thing you need to do in order to run the OSINT Tool smoothly.
+Once done cloning, there is 1 thing you need to do in order to run the OSINT Tool smoothly.
 
-1. Make sure you are is sudo mode so that the OSINT Tool can run nmap scans with sudo privileges.
+1. Make sure you are in sudo mode so that the OSINT Tool can run nmap scans with sudo privileges.
 
-After entering into sudo/bash mode, simply go to the file that you have just cloned and enter the command:
+After entering into sudo/bash mode, simply go to the folder you cloned and enter the command:
 
 python3 OSIGATER.py
 
-The above command will run the python file. (It's either python or python2 or python3, depends on the python version installed on your linux).
+The above command will run the python file which runs the OSIGATER OSINT Tool. (It's either python or python2 or python3, depends on the python version installed on your linux).
