@@ -5,6 +5,8 @@ Note that this OSINT Tool was only designed to be run in linux, especially Kali 
 
 In order to setup this OSINT Tool, just git clone this repository into your directory. (Recommended to clone the code again as the code submitted in moodle is not as complete as the current one here since it still had bug errors but not enough time to fix it.)
 
+Make sure the shodan_module.py is there as well as it is used to perform the shodan feature function.
+
 Once done cloning, there 1 thing you need to do in order to run the OSINT Tool smoothly.
 
 1. Make sure you are is sudo mode so that the OSINT Tool can run nmap scans with sudo privileges.
