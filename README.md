@@ -16,3 +16,5 @@ After entering into sudo/bash mode, simply go to the folder you cloned and enter
 python3 OSIGATER.py
 
 The above command will run the python file which runs the OSIGATER OSINT Tool. (It's either python or python2 or python3, depends on the python version installed on your linux).
+Screenshot Below:
+![image](https://github.com/user-attachments/assets/2b486773-9e9d-4794-b69f-5ac928004f93)
